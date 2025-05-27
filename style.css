@@ -12,6 +12,7 @@ header {
 /*gli id vengono richiamati con il cancelletto*/
 #logo {
     border-radius: 50%;
+    width: 200px;
 }
 
 /*le classi vengono richiamente con il punto*/
